@@ -24,6 +24,7 @@ Kütüphaneler tarafından kullanılabilecek kayıt yönetimlerini, kitap ödün
 
 ## Ekran Görüntüleri
 - UML diyagram
+- https://github.com/ursulaburak/Week13-Graduation-Project/issues/1#issue-3246396213
   
 
 ## API Kullanımı
