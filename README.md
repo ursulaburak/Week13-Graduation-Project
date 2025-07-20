@@ -24,7 +24,7 @@ Kütüphaneler tarafından kullanılabilecek kayıt yönetimlerini, kitap ödün
 
 ## Ekran Görüntüleri
 - UML diyagram
-  
+  <img width="1540" height="903" alt="Image" src="https://github.com/user-attachments/assets/76bee491-fe82-463d-80e4-04d3137b2128" />
 
 ## API Kullanımı
 Aşağıda, API'nin sunduğu temel endpoint'lerin bir listesi bulunmaktadır:
