@@ -71,6 +71,7 @@ Aşağıda, API'nin sunduğu temel endpoint'lerin bir listesi bulunmaktadır:
 ## Kurulum
 1. Projeyi klonlayın.
     - git clone https://github.com/ursulaburak/Week13-Graduation-Project.git
+
 2.1. Docker yüklü ise,
     - docker-compose up 
 2.2. `src/main/resources/application.properties` dosyasında veri tabanı konfigürasyonunu yapın.
